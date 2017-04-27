@@ -1,0 +1,9 @@
+{
+  "name": "minnow",
+  "version": "1.0.0",
+  "description": "A minimal ui kit for web app prototyping",
+  "main": "index.js",
+  "repository": "git@github.com:grantschulte/minnow.git",
+  "author": "Grant J. Schulte",
+  "license": "MIT"
+}
